@@ -1,0 +1,18 @@
+{
+  "Title": "Spire: AI Test",
+  "Type": "map",
+  "Org": "devultj",
+  "Ident": "spire_ai_test",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "GameSupport": [
+      "devultj.spire"
+    ]
+  }
+}

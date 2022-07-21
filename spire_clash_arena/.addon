@@ -1,0 +1,18 @@
+{
+  "Title": "Spire Clash: Arena",
+  "Type": "map",
+  "Org": "devultj",
+  "Ident": "spire_clash_arena",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "GameSupport": [
+      "facepunch.spire"
+    ]
+  }
+}
